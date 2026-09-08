@@ -1,0 +1,50 @@
+{
+    "Identity,_Intent_and_Behaviour": {
+        "flesch": 41.72005,
+        "sentences_per_paragraph": 1.53974,
+        "syllables_per_content_word": 2.83512,
+        "words_per_sentence": 13.02325,
+        "noun_ratio": 0.46043,
+        "cw_freq_brwac": 3.66433,
+        "brunet": 12.10161,
+        "honore": 884.23916,
+        "ttr": 0.71251,
+        "gunning_fox": 20.73945
+    },
+    "Tree_of_Thought": {
+        "flesch": 40.25106,
+        "sentences_per_paragraph": 3.05877,
+        "syllables_per_content_word": 2.85891,
+        "words_per_sentence": 14.42399,
+        "noun_ratio": 0.40507,
+        "cw_freq_brwac": 3.99588,
+        "brunet": 10.89315,
+        "honore": 1034.18617,
+        "ttr": 0.72798,
+        "gunning_fox": 21.33108
+    },
+    "Zero_Shot": {
+        "flesch": 43.62479,
+        "sentences_per_paragraph": 2.03093,
+        "syllables_per_content_word": 2.81276,
+        "words_per_sentence": 12.78966,
+        "noun_ratio": 0.40767,
+        "cw_freq_brwac": 4.09313,
+        "brunet": 11.97817,
+        "honore": 891.68936,
+        "ttr": 0.71233,
+        "gunning_fox": 20.47387
+    },
+    "Original": {
+        "flesch": 21.1132,
+        "sentences_per_paragraph": 40.7,
+        "syllables_per_content_word": 3.05444,
+        "words_per_sentence": 25.68235,
+        "noun_ratio": 0.4553,
+        "cw_freq_brwac": 3.64969,
+        "brunet": 12.39965,
+        "honore": 927.89219,
+        "ttr": 0.72232,
+        "gunning_fox": 26.61903
+    }
+}

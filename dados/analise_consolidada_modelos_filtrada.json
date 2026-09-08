@@ -1,0 +1,295 @@
+{
+    "llama-3": {
+        "Identity,_Intent_and_Behaviour": {
+            "flesch": 25.72084,
+            "sentences_per_paragraph": 1.43473,
+            "syllables_per_content_word": 3.15272,
+            "words_per_sentence": 17.22073,
+            "noun_ratio": 0.38386,
+            "cw_freq_brwac": 4.12946,
+            "brunet": 11.72629,
+            "honore": 863.41427,
+            "ttr": 0.70681,
+            "gunning_fox": 23.65878
+        },
+        "Tree_of_Thought": {
+            "flesch": 27.43152,
+            "sentences_per_paragraph": 4.90833,
+            "syllables_per_content_word": 3.07762,
+            "words_per_sentence": 16.58774,
+            "noun_ratio": 0.29451,
+            "cw_freq_brwac": 4.6451,
+            "brunet": 10.04344,
+            "honore": 969.7367,
+            "ttr": 0.71912,
+            "gunning_fox": 23.35808
+        },
+        "Zero_Shot": {
+            "flesch": 43.98094,
+            "sentences_per_paragraph": 1.19155,
+            "syllables_per_content_word": 2.86239,
+            "words_per_sentence": 9.46025,
+            "noun_ratio": 0.31771,
+            "cw_freq_brwac": 4.68591,
+            "brunet": 11.40464,
+            "honore": 770.86522,
+            "ttr": 0.66512,
+            "gunning_fox": 18.88246
+        },
+        "Original": {}
+    },
+    "gpt-oss-120b": {
+        "Identity,_Intent_and_Behaviour": {
+            "flesch": 34.80906,
+            "sentences_per_paragraph": 1.6397,
+            "syllables_per_content_word": 2.94667,
+            "words_per_sentence": 13.27911,
+            "noun_ratio": 0.48001,
+            "cw_freq_brwac": 3.55344,
+            "brunet": 12.07508,
+            "honore": 910.19,
+            "ttr": 0.72817,
+            "gunning_fox": 21.76436
+        },
+        "Tree_of_Thought": {
+            "flesch": 41.44676,
+            "sentences_per_paragraph": 1.71977,
+            "syllables_per_content_word": 2.88172,
+            "words_per_sentence": 13.69152,
+            "noun_ratio": 0.4414,
+            "cw_freq_brwac": 3.74207,
+            "brunet": 10.73057,
+            "honore": 1158.62711,
+            "ttr": 0.76491,
+            "gunning_fox": 21.03315
+        },
+        "Zero_Shot": {
+            "flesch": 40.53487,
+            "flesch_count": 7,
+            "sentences_per_paragraph": 1.30603,
+            "sentences_per_paragraph_count": 7,
+            "syllables_per_content_word": 2.73942,
+            "syllables_per_content_word_count": 7,
+            "words_per_sentence": 15.68303,
+            "words_per_sentence_count": 7,
+            "noun_ratio": 0.50458,
+            "noun_ratio_count": 7,
+            "cw_freq_brwac": 3.53575,
+            "cw_freq_brwac_count": 7,
+            "brunet": 11.74292,
+            "brunet_count": 7,
+            "honore": 954.30912,
+            "honore_count": 7,
+            "ttr": 0.73403,
+            "ttr_count": 7,
+            "gunning_fox": 22.20059,
+            "gunning_fox_count": 7
+        },
+        "Original": {}
+    },
+    "qwen3-32b": {
+        "Identity,_Intent_and_Behaviour": {
+            "flesch": 45.83405,
+            "sentences_per_paragraph": 1.50802,
+            "syllables_per_content_word": 2.73827,
+            "words_per_sentence": 9.80847,
+            "noun_ratio": 0.47995,
+            "cw_freq_brwac": 3.55652,
+            "brunet": 11.79813,
+            "honore": 901.01642,
+            "ttr": 0.72573,
+            "gunning_fox": 19.31689
+        },
+        "Tree_of_Thought": {
+            "flesch": 34.68005,
+            "sentences_per_paragraph": 2.89533,
+            "syllables_per_content_word": 2.90651,
+            "words_per_sentence": 11.65511,
+            "noun_ratio": 0.44325,
+            "cw_freq_brwac": 3.84705,
+            "brunet": 9.88907,
+            "honore": 1344.62055,
+            "ttr": 0.79279,
+            "gunning_fox": 21.36273
+        },
+        "Zero_Shot": {
+            "flesch": 37.67934,
+            "sentences_per_paragraph": 3.52118,
+            "syllables_per_content_word": 2.86026,
+            "words_per_sentence": 12.75502,
+            "noun_ratio": 0.42581,
+            "cw_freq_brwac": 4.01332,
+            "brunet": 11.0722,
+            "honore": 983.37521,
+            "ttr": 0.7708,
+            "gunning_fox": 21.30845
+        },
+        "Original": {}
+    },
+    "sabia1300_1500": {
+        "Identity,_Intent_and_Behaviour": {},
+        "Tree_of_Thought": {},
+        "Zero_Shot": {
+            "flesch": -159.87855,
+            "sentences_per_paragraph": 7.88384,
+            "syllables_per_content_word": 1.4257,
+            "words_per_sentence": 304.12777,
+            "noun_ratio": 0.21473,
+            "cw_freq_brwac": 3.35434,
+            "brunet": 60.43272,
+            "honore": 475.91683,
+            "ttr": 0.09662,
+            "gunning_fox": 123.78396
+        },
+        "Original": {}
+    },
+    "ministral": {
+        "Identity,_Intent_and_Behaviour": {
+            "flesch": 50.9729,
+            "sentences_per_paragraph": 1.76145,
+            "syllables_per_content_word": 2.65848,
+            "words_per_sentence": 11.91845,
+            "noun_ratio": 0.49386,
+            "cw_freq_brwac": 3.41601,
+            "brunet": 12.51994,
+            "honore": 851.33491,
+            "ttr": 0.69999,
+            "gunning_fox": 19.03369
+        },
+        "Tree_of_Thought": {
+            "flesch": 49.14689,
+            "flesch_count": 9,
+            "sentences_per_paragraph": 4.41555,
+            "sentences_per_paragraph_count": 9,
+            "syllables_per_content_word": 2.76929,
+            "syllables_per_content_word_count": 9,
+            "words_per_sentence": 13.56697,
+            "words_per_sentence_count": 9,
+            "noun_ratio": 0.38288,
+            "noun_ratio_count": 9,
+            "cw_freq_brwac": 4.14702,
+            "cw_freq_brwac_count": 9,
+            "brunet": 11.90539,
+            "brunet_count": 9,
+            "honore": 740.0191,
+            "honore_count": 9,
+            "ttr": 0.66297,
+            "ttr_count": 9,
+            "gunning_fox": 19.74754,
+            "gunning_fox_count": 9
+        },
+        "Zero_Shot": {
+            "flesch": 62.30924,
+            "sentences_per_paragraph": 1.49507,
+            "syllables_per_content_word": 2.47905,
+            "words_per_sentence": 11.27997,
+            "noun_ratio": 0.46424,
+            "cw_freq_brwac": 3.57481,
+            "brunet": 14.01041,
+            "honore": 822.39853,
+            "ttr": 0.63649,
+            "gunning_fox": 17.15629
+        },
+        "Original": {}
+    },
+    "corpus_split": {
+        "Identity,_Intent_and_Behaviour": {},
+        "Tree_of_Thought": {},
+        "Zero_Shot": {},
+        "Original": {
+            "flesch": 21.1132,
+            "sentences_per_paragraph": 40.7,
+            "syllables_per_content_word": 3.05444,
+            "words_per_sentence": 25.68235,
+            "noun_ratio": 0.4553,
+            "cw_freq_brwac": 3.64969,
+            "brunet": 12.39965,
+            "honore": 927.89219,
+            "ttr": 0.72232,
+            "gunning_fox": 26.61903
+        }
+    },
+    "sabia_web": {
+        "Identity,_Intent_and_Behaviour": {},
+        "Tree_of_Thought": {},
+        "Zero_Shot": {
+            "flesch": 33.88017,
+            "sentences_per_paragraph": 2.99042,
+            "syllables_per_content_word": 3.02952,
+            "words_per_sentence": 13.84119,
+            "noun_ratio": 0.362,
+            "cw_freq_brwac": 4.38403,
+            "brunet": 11.87574,
+            "honore": 902.37887,
+            "ttr": 0.74107,
+            "gunning_fox": 21.93002
+        },
+        "Original": {}
+    },
+    "gemini": {
+        "Identity,_Intent_and_Behaviour": {
+            "flesch": 51.26341,
+            "sentences_per_paragraph": 1.35478,
+            "syllables_per_content_word": 2.67945,
+            "words_per_sentence": 12.8895,
+            "noun_ratio": 0.46447,
+            "cw_freq_brwac": 3.66624,
+            "brunet": 12.3886,
+            "honore": 895.2402,
+            "ttr": 0.70183,
+            "gunning_fox": 19.92352
+        },
+        "Tree_of_Thought": {
+            "flesch": 48.5501,
+            "sentences_per_paragraph": 1.35488,
+            "syllables_per_content_word": 2.65942,
+            "words_per_sentence": 16.61862,
+            "noun_ratio": 0.46333,
+            "cw_freq_brwac": 3.59817,
+            "brunet": 11.8973,
+            "honore": 957.9274,
+            "ttr": 0.7001,
+            "gunning_fox": 21.15389
+        },
+        "Zero_Shot": {
+            "flesch": 43.36421,
+            "sentences_per_paragraph": 1.68131,
+            "syllables_per_content_word": 2.90594,
+            "words_per_sentence": 13.71848,
+            "noun_ratio": 0.3717,
+            "cw_freq_brwac": 4.36497,
+            "brunet": 11.7631,
+            "honore": 916.80922,
+            "ttr": 0.72645,
+            "gunning_fox": 21.36541
+        },
+        "Original": {}
+    },
+    "sabia_300-500": {
+        "Identity,_Intent_and_Behaviour": {},
+        "Tree_of_Thought": {},
+        "Zero_Shot": {
+            "flesch": 14.26224,
+            "flesch_count": 23,
+            "sentences_per_paragraph": 7.72575,
+            "sentences_per_paragraph_count": 23,
+            "syllables_per_content_word": 3.02781,
+            "syllables_per_content_word_count": 23,
+            "words_per_sentence": 32.02013,
+            "words_per_sentence_count": 23,
+            "noun_ratio": 0.44685,
+            "noun_ratio_count": 23,
+            "cw_freq_brwac": 3.86526,
+            "cw_freq_brwac_count": 23,
+            "brunet": 16.19425,
+            "brunet_count": 23,
+            "honore": 809.24615,
+            "honore_count": 23,
+            "ttr": 0.57414,
+            "ttr_count": 23,
+            "gunning_fox": 28.95075,
+            "gunning_fox_count": 23
+        },
+        "Original": {}
+    }
+}
